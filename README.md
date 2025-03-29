@@ -1,9 +1,29 @@
 # AI-NHL-Game-Predictor
 
+##Overview
+The AI NHL Game Predictor is a machine learning project designed to predict the outcome of NHL games using various models, including a deep neural network (DNN), logistic regression, and XGBoost. A k-nearest neighbors (KNN) model serves as the baseline for comparison. The project preprocesses historical game data, extracts relevant features, and trains multiple models to improve prediction accuracy.
+
 ## Built With
 Jupyter Notebook
+Python (scikit-learn, TensorFlow/Keras, XGBoost, NumPy, Pandas, Matplotlib, Seaborn)
 
 ## Getting Started
+### Prerequisites
+To run this project, ensure you have the following installed:
+Python 3.8+
+Jupyter Notebook
+Required Python libraries (install using the command below):
+pip install numpy pandas scikit-learn tensorflow xgboost matplotlib seaborn
+
+### Installation
+1. Clone the repository:
+git clone https://github.com/your-username/AI-NHL-Game-Predictor.git
+
+2. Navigate to the project directory:
+cd AI-NHL-Game-Predictor
+
+3. Open Jupyter Notebook and run the notebooks in order.
+
 
 ## Usage
 
