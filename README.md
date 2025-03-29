@@ -9,7 +9,10 @@ Python (scikit-learn, TensorFlow/Keras, XGBoost, NumPy, Pandas, Matplotlib, Seab
 
 ## Getting Started
 ### Prerequisites
-To run this project, ensure you have the following installed: Python 3.8+, Jupyter Notebook, Required Python libraries (install using this command): pip install numpy pandas scikit-learn tensorflow xgboost matplotlib seaborn
+To run this project, ensure you have the following installed: Python 3.8+   
+Jupyter Notebook  
+Required Python libraries  
+(install using this command): pip install numpy pandas scikit-learn tensorflow xgboost matplotlib seaborn
 
 
 ### Installation
