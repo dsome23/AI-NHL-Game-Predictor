@@ -28,6 +28,13 @@ cd AI-NHL-Game-Predictor
 
 
 ## Usage
+1. Load the dataset and preprocess the data.
+
+2. Train the models (DNN, logistic regression, XGBoost, and KNN baseline).
+
+3. Evaluate model performance using metrics such as accuracy and precision.
+
+
 
 ## Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated. If you have a suggestion that would make this better, please fork the repo and create a pull request. Thanks again!
