@@ -1,6 +1,6 @@
 # AI-NHL-Game-Predictor
 
-##Overview
+## Overview
 The AI NHL Game Predictor is a machine learning project designed to predict the outcome of NHL games using various models, including a deep neural network (DNN), logistic regression, and XGBoost. A k-nearest neighbors (KNN) model serves as the baseline for comparison. The project preprocesses historical game data, extracts relevant features, and trains multiple models to improve prediction accuracy.
 
 ## Built With
